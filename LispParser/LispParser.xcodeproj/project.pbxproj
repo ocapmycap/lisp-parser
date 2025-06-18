@@ -21,6 +21,7 @@
 /* Begin PBXFileReference section */
 		A9740D3E2E01FF1900FEFAD5 /* LispParser */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LispParser; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9740D4E2E01FF7D00FEFAD5 /* LispParserTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LispParserTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A99DD25E2E02FDD4007234AC /* Interview.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Interview.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -71,6 +72,7 @@
 		A9740D352E01FF1900FEFAD5 = {
 			isa = PBXGroup;
 			children = (
+				A99DD25E2E02FDD4007234AC /* Interview.md */,
 				A9740D402E01FF1900FEFAD5 /* LispParser */,
 				A9740D4F2E01FF7D00FEFAD5 /* LispParserTests */,
 				A9740D3F2E01FF1900FEFAD5 /* Products */,
